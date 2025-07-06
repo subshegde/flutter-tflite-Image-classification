@@ -91,8 +91,8 @@ Before you begin, make sure you have the following installed:
 Once your development environment is ready, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/subshegde/flutter-tflite.git
-cd flutter-tflite
+git clone https://github.com/subshegde/flutter-tflite-Image-classification.git
+cd flutter-tflite-Image-classification
 ```
 
 ### 2. **Install Dependencies**
