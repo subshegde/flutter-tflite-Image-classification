@@ -6,7 +6,15 @@ Mango Leaf Disease Detector is a mobile application built using Flutter and Tens
 
 This application uses a custom-trained TensorFlow Lite model developed with `Teachable Machine`, trained on a small dataset of approximately 15 images per class.
 
-## Screenshots & video
+## Screenshots
+
+![mango_leaf_disease_detection](https://github.com/user-attachments/assets/1594653e-5fd8-49a1-b643-89646ee5eae5)
+
+## video
+
+
+https://github.com/user-attachments/assets/d4aec528-c1bc-4679-9354-efec7bd441e2
+
 
 
 ## ✨ Features
