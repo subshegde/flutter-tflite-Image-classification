@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_tflite_examples/presentation/pages/auth/login.dart';
-import 'package:flutter_tflite_examples/presentation/pages/home/home_shell.dart';
 
 void main() {
   runApp(const MyApp());
