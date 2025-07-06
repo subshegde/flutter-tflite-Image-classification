@@ -8,7 +8,7 @@ This application uses a custom-trained TensorFlow Lite model developed with `Tea
 
 ## Screenshots
 
-![mango_leaf_disease_detection](https://github.com/user-attachments/assets/1594653e-5fd8-49a1-b643-89646ee5eae5)
+![thumbnail](https://github.com/user-attachments/assets/7a9cd063-a8ae-4216-b64c-9b9b62858791)
 
 ## video
 
