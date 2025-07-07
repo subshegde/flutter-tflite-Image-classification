@@ -12,7 +12,6 @@ This application uses a custom-trained TensorFlow Lite model developed with `Tea
 
 ## video
 
-
 https://github.com/user-attachments/assets/d4aec528-c1bc-4679-9354-efec7bd441e2
 
 
