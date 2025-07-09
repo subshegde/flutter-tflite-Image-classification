@@ -90,8 +90,8 @@ Before you begin, make sure you have the following installed:
 Once your development environment is ready, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/subshegde/flutter-tflite-Image-classification.git
-cd flutter-tflite-Image-classification
+git clone https://github.com/subshegde/Image-classification-MangoLeaf-Disease-Detection.git
+cd Image-classification-MangoLeaf-Disease-Detection
 ```
 
 ### 2. **Install Dependencies**
